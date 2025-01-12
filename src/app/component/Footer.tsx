@@ -154,7 +154,7 @@ const Footer: FC = () => {
               href="#"
               className="text-teal-500 hover:text-teal-600 transition-colors"
             >
-              Abdul Rehman Ansari
+              Sheikh Shahbaz
             </Link>
           </p>
           <div className="flex space-x-4 mt-2 sm:mt-0">
